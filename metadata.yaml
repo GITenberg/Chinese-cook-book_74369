@@ -1,11 +1,16 @@
 _repo: Chinese-cook-book_74369
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74369-h/images/cover.jpg
 creator:
   author:
     agent_name: Galster, Vernon
     gutenberg_agent_id: '57470'
     url: http://www.gutenberg.org/2009/agents/57470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74369#Chinese-cook-book
 gutenberg_issued: '2024-09-04'
 gutenberg_type: Text
 identifiers:
